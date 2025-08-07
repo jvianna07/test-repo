@@ -125,7 +125,7 @@ c) Agrupamentos e Agregações
 * Agrupar por `Duration` e calcular média de `Calories`.
 * Agrupar por faixas de `Pulse` ou `Maxpulse`.
 
-d) Análise de Correlação**
+d) Análise de Correlação
 
 * Matriz de correlação com `.corr()`
 * Análise da relação entre `Pulse` e `Calories`.
