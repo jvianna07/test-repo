@@ -42,6 +42,7 @@ import matplotlib.pyplot as plt
 ```python
 # Importar o dataset
 df=pd.read_csv("https://raw.githubusercontent.com/jvianna07/popular_datasets/refs/heads/main/calories.csv")
+df.head()
 ```
 
 
@@ -96,6 +97,8 @@ if __name__ == '__main__':
 ```
 
 ## 4. Explorar o dataset com tarefas de análise de dados básicas
+
+Use o arquivo `data_analysis.ipynb` para exercitar tarefas de análise de dados básicas com pandas, numpy e matplotlib.
 
 ### I. Pandas (manipulação de dataframes)
 a) Limpeza de Dados
