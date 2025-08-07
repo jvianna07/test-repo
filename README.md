@@ -1,4 +1,4 @@
-# Git Github
+# Github, kivy & Data Analysis tasks
 ## 1. Clonar o repositório
 Clone este repositório `test-repo` para sua máquina.
 
